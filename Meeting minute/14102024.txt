@@ -1,0 +1,12 @@
+14/10/2024
+Trong tối hôm nay
+	- Sẽ tạo GitHub -> DONE
+	- Sẽ tạo một hệ thống để quản lý task -> Tân -> Notion
+	- Xác định được thời gian cụ thể để gặp cô => Thứ 4 17:15 16/10/2024
+	- Sơ qua về cách chạy đồ án (hình thức)
+
+Công nghệ
+- Back-end: Java Rest API
+- Front-end: ReactJS
+- Mobile: React Native
+
